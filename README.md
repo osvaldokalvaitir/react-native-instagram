@@ -10,7 +10,7 @@
 [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-Aplicação Instagram usando React Native, Axios, React Navigation, Socket.io e React Native Image Picker consumindo os recursos da API do [Node - Instagram](https://github.com/osvaldokalvaitir/node-instagram).
+Aplicação Instagram usando React Native, Axios, React Navigation, Socket.io e React Native Image Picker consumindo os recursos da API do [Node.js - Instagram](https://github.com/osvaldokalvaitir/nodejs-instagram).
 
 ## Índice
 
@@ -78,7 +78,7 @@ Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/
 
 ### APIs
 
-- **[Node - Instagram](https://github.com/osvaldokalvaitir/node-instagram)**
+- **[Node.js - Instagram](https://github.com/osvaldokalvaitir/nodejs-instagram)**
 
   - **Rotas**
 
